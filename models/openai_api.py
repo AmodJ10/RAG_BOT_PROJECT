@@ -1,0 +1,1 @@
+# OpenAI API setup and interaction script
